@@ -1,2 +1,3 @@
 print("Hello world")
-print("World is my")
+print("World is Mine")
+print()
